@@ -1,4 +1,4 @@
-<h1 align="center">### Hi 👋, I'm Harish Rayala</h1>
+<h1 align="center">*** Hi 👋, I'm Harish Rayala ***</h1>
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning **React Js**
