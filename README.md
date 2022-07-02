@@ -1,4 +1,6 @@
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hi 👋, +I'm Harish Rayala;" style="max-width: 100%;"><br/>
+Hi there 👋
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Harish+Rayala!;" style="max-width: 100%;">
+<br/>
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning **React Js**
