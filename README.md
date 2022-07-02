@@ -1,8 +1,7 @@
 <h1 align="center">### Hi 👋, I'm Harish Rayala</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning **React Js**
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
 - 📫 How to reach me: **harishrayalal2379@gmail.com**
 - ⚡ Fun fact: I am afraid of water not while bathing🤪 🥶
