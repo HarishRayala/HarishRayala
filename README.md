@@ -1,7 +1,8 @@
 Hi there 👋
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Harish+Rayala!;" style="max-width: 100%;">
 <br/>
-
+<img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
+<br/>
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning **React Js**
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
