@@ -3,7 +3,7 @@ Hi there 👋
 <br/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
-- 🔭 I’m currently working on Reactjs,Typescript
+- 🔭 I’m currently working on Reactjs
 - 🌱 I’m currently learning **React Js**
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
 - 📫 How to reach me: **harishrayalal2379@gmail.com**
