@@ -31,5 +31,5 @@ Hi there 👋
 </p>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+  <img src="https://profile-counter.glitch.me/harishrayala/count.svg" />
 </h3>
