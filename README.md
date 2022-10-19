@@ -3,8 +3,8 @@ Hi there 👋
 <br/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
-- 🔭 I’m currently working on Reactjs
-- 🌱 I’m currently learning **React Js**
+- 🔭 I’m currently working on Nodejs, Express, MongoDB
+- 🌱 I’m currently learning **React Js, DSA**
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
 - 📫 How to reach me: **harishrayalal2379@gmail.com**
 - ⚡ Fun fact: I am afraid of water not while bathing🤪 🥶
