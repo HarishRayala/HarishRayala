@@ -5,11 +5,17 @@ Hi there 👋
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
 - 🔭 I’m currently working on Nodejs, Express, MongoDB
+- <br/>
 - 🌱 I’m currently learning **React Js, DSA**
+- <br/>
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
+- <br/>
 - 📫 How to reach me: **harishrayalal2379@gmail.com**
+- <br/>
 - ⚡ Fun fact: I am afraid of water not while bathing🤪 🥶
+- <br/>
 - ✍️ Hobbies,Interests:✨ I am an Artist ✨
+- <br/>
 -->
 
 
