@@ -1,7 +1,7 @@
 Hi there 👋
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Harish+Rayala!;" style="max-width: 100%;">
 <br/>
-<h2 textalign="center" >An Aspiring Full Stack Web Developer</h2>
+<h3 textalign="center" >An Aspiring Full Stack Web Developer Capable of writing code using Html, JavaScript, ReactJS on the frontend, and NodeJS, Express, MongoDB on the backend to build single-page applications.</h3>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
 - 🔭 I’m currently working on Nodejs, Express, MongoDB
