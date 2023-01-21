@@ -37,7 +37,7 @@ Hi there 👋
 
  <p align="center">
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=HarishRayala&theme=dark" /> <br \>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=harishrayala&show_icons=true&theme=dark" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=HarishRayala&show_icons=true&theme=dark" />
 </p>
 <!-- <h3 align="center"> 
   Visitor count <br>
