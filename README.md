@@ -23,23 +23,23 @@ Hi there 👋
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <div>
-<a href="https://www.linkedin.com/in/harish-rayala/">
+<a href="https://www.linkedin.com/in/harish-rayala/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:harishrayala2379@gmail.com">
+<a href="mailto:harishrayala2379@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://twitter.com/i_amHarish">
+<a href="https://twitter.com/i_amHarish" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
-<a href="https://www.instagram.com/i_m_rayalaharish/">
+<a href="https://www.instagram.com/i_m_rayalaharish/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
  <br/>
-<a href="https://medium.com/@harishrayala2379" target="-blank">
+<a href="https://medium.com/@harishrayala2379" target="_blank">
 <img align="center" src="https://img.shields.io/badge/medium-ffc506?style=for-the-badge&logo=medium&logoColor=black" alt="@HarishRayala" />
 </a>
-<a href="https://www.youtube.com/channel/UC1_XiMsi5RzVp2GsBsrniDQ" target="-blank">
+<a href="https://www.youtube.com/channel/UC1_XiMsi5RzVp2GsBsrniDQ" target="_blank">
 <img align="center" src="https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="seniorcodes" />
 </a>
 </div>
