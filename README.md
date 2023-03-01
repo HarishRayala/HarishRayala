@@ -7,7 +7,7 @@ Hi there 👋
 <br/>
 - 🔭 I’m currently working on Nodejs, Express, MongoDB
 - <br/>
-- 🌱 I’m currently learning **React Js, DSA**
+- 🌱 I’m currently learning **Backend, DSA**
 - <br/>
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
 - <br/>
