@@ -1,23 +1,17 @@
-Hi there 👋
+## Hey there 👋
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Harish+Rayala!;" style="max-width: 100%;">
 <br/>
 <h3 textalign="center" >An Aspiring Full Stack Web Developer Capable of writing code using Html, JavaScript, ReactJS on the frontend, and NodeJS, Express, MongoDB on the backend to build single-page applications.</h3>
 <hr/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
-- 🔭 I’m currently working on Nodejs, Express, MongoDB
-- <br/>
-- 🌱 I’m currently learning **Backend, DSA**
-- <br/>
-- 💬 Ask me about Html,CSS,JavaScript,ReactJs
-- <br/>
-- 📫 How to reach me: **harishrayalal2379@gmail.com**
-- <br/>
-- ⚡ Fun fact: I am afraid of water not while bathing🤪 🥶
-- <br/>
-- ✍️ Hobbies,Interests:✨ I am an Artist ✨
-- <br/>
--->
+<li>I am a FrontEnd Developer </li>
+<li>🔭 I’m currently working on Nodejs, Express, MongoDB</li>
+<li>🌱 I’m currently learning **Backend, DSA**</li>
+<!-- <li> 💬 Ask me about Html,CSS,JavaScript,ReactJs</li> -->
+<li>📫 How to reach me: **harishrayalal2379@gmail.com**</li>
+<li>⚡ Fun fact: I am afraid of water not while bathing🤪 🥶</li>
+<li>✍️ Hobbies,Interests:✨ I am an Artist ✨</li>
 
 
 <h3 align="left">Connect with me:</h3>
