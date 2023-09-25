@@ -5,7 +5,7 @@
 <hr/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 <br/>
-<li>I am a FrontEnd Developer </li>
+<li>👨‍💻 I am a FrontEnd Developer </li>
 <li>🔭 I’m currently working on Nodejs, Express, MongoDB</li>
 <li>🌱 I’m currently learning **Backend, DSA**</li>
 <!-- <li> 💬 Ask me about Html,CSS,JavaScript,ReactJs</li> -->
