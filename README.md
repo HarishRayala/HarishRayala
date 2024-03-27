@@ -4,7 +4,6 @@
 <meta> An Aspiring Full Stack Web Developer Capable of writing code using <b>Html, JavaScript, ReactJS</b> on the frontend, and <b>NodeJS, Express, MongoDB</b> on the backend to build single-page applications. </meta> 
 <hr/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
-<br/>
 <li>👨‍💻 I am a <b>FrontEnd Developer</b> </li>
 <li>🔭 I’m currently working on <b>Nodejs, Express, MongoDB</b></li>
 <li>🌱 I’m currently learning <b>Backend, DSA</b></li>
