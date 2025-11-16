@@ -10,7 +10,7 @@
 <!-- <li> 💬 Ask me about Html,CSS,JavaScript,ReactJs</li> -->
 <li>📫 How to reach me: <b>harishrayalal2379@gmail.com</b></li>
 <!-- <li>⚡ Fun fact: I am afraid of water, not while bathing🤪 🥶</li> -->
-<li>✍️ Hobbies,Interests:✨ I am an <b>Artist</b> MARVEL FAN ✨</li>
+<li>✍️ Hobbies,Interests:✨ I am an <b>Artist</b>, MARVEL FAN ✨</li>
 
 
 <h3 align="left">Connect with me:</h3>
