@@ -4,13 +4,13 @@
 <meta> An Aspiring Full Stack Web Developer Capable of writing code using <b>Html, JavaScript, ReactJS</b> on the frontend, and <b>NodeJS, Express, MongoDB</b> on the backend to build single-page applications. </meta> 
 <hr/>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
-<li>👨‍💻 I am a <b>FrontEnd Developer</b> </li>
-<li>🔭 I’m currently working on <b>Nodejs, Express, MongoDB</b></li>
-<li>🌱 I’m currently learning <b>Backend, DSA</b></li>
+<li>👨‍💻 Hey there! I’m a React Developer who talks in components and thinks in hooks. </li>
+<li>🔭 I work with <b> ReactJS, JavaScript, HTML, React Native, Progressive Web App, Firebase, Material-UI, Ant Design etc., </b></li>
+<!-- <li>🌱 I’m currently learning <b>Backend, DSA</b></li> -->
 <!-- <li> 💬 Ask me about Html,CSS,JavaScript,ReactJs</li> -->
 <li>📫 How to reach me: <b>harishrayalal2379@gmail.com</b></li>
-<li>⚡ Fun fact: I am afraid of water not while bathing🤪 🥶</li>
-<li>✍️ Hobbies,Interests:✨ I am an <b>Artist</b> ✨</li>
+<!-- <li>⚡ Fun fact: I am afraid of water, not while bathing🤪 🥶</li> -->
+<li>✍️ Hobbies,Interests:✨ I am an <b>Artist</b> MARVEL FAN ✨</li>
 
 
 <h3 align="left">Connect with me:</h3>
